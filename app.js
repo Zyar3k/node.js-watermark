@@ -29,3 +29,5 @@ const addImageWatermarkToImage = async function(inputFile, outputFile, watermark
   };
   
   addImageWatermarkToImage('./test.jpg', './test-with-watermark2.jpg', './logo.png');
+
+  const inquirer = require('inquirer');
