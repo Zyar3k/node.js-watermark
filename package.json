@@ -1,0 +1,12 @@
+{
+  "name": "node.js-watermark",
+  "version": "1.0.0",
+  "description": "node.js practice",
+  "main": "app.js",
+  "repository": "git@github.com:Zyar3k/node.js-watermark.git",
+  "author": "Zyar3k",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
